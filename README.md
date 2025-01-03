@@ -1,2 +1,7 @@
-# Meet-Matrix
-MeetMatrix is a user-friendly platform that helps communities organize and participate in events seamlessly.
+# MeetMatrix
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
